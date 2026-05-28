@@ -1,6 +1,6 @@
-# Enterprise AI Workforce Intelligence
+# 🚀 Enterprise AI Workforce Intelligence
 
-## Project Overview
+## 📌 Project Overview
 
 Enterprise AI Workforce Intelligence is an AI-powered workforce analytics project designed to analyze employee burnout, AI displacement anxiety, productivity loss, and attrition risk using Machine Learning and Power BI.
 
@@ -8,20 +8,20 @@ The project combines Data Science, Machine Learning, and Business Intelligence t
 
 ---
 
-## Business Objective
+# 🎯 Business Objective
 
-- Predict employee burnout trends
-- Analyze AI workforce displacement impact
-- Identify attrition risks
-- Monitor productivity loss
-- Deliver executive-level workforce intelligence dashboards
-- Provide AI-driven workforce behavioral insights
+- 🔹 Predict employee burnout trends
+- 🔹 Analyze AI workforce displacement impact
+- 🔹 Identify attrition risks
+- 🔹 Monitor productivity loss
+- 🔹 Deliver executive-level workforce intelligence dashboards
+- 🔹 Provide AI-driven workforce behavioral insights
 
 ---
 
-## Technologies Used
+# 🛠️ Technologies Used
 
-### Programming & Analytics
+## 💻 Programming & Analytics
 - Python
 - Pandas
 - NumPy
@@ -29,12 +29,12 @@ The project combines Data Science, Machine Learning, and Business Intelligence t
 - XGBoost
 - SHAP
 
-### Visualization & BI
+## 📊 Visualization & BI
 - Power BI
 - Data Visualization
 - Business Intelligence
 
-### Machine Learning
+## 🤖 Machine Learning
 - Regression Models
 - Classification Models
 - Feature Importance Analysis
@@ -42,35 +42,35 @@ The project combines Data Science, Machine Learning, and Business Intelligence t
 
 ---
 
-## Machine Learning Features
+# 🧠 Machine Learning Features
 
-- Burnout Score Prediction
-- Attrition Risk Classification
-- Workforce Productivity Analysis
-- AI Tool Usage Analytics
-- Feature Importance Visualization
-- Predictive Trend Validation
-- Workforce Behavioral Intelligence
+- 🔹 Burnout Score Prediction
+- 🔹 Attrition Risk Classification
+- 🔹 Workforce Productivity Analysis
+- 🔹 AI Tool Usage Analytics
+- 🔹 Feature Importance Visualization
+- 🔹 Predictive Trend Validation
+- 🔹 Workforce Behavioral Intelligence
 
 ---
 
-## Dashboard Features
+# 📈 Dashboard Features
 
-### KPI Cards
+## 📌 KPI Cards
 - Attrition Risk %
 - Burnout Index
 - Productivity Loss %
 - High Risk Employees
 - Retention Savings
 
-### Visual Analytics
+## 📊 Visual Analytics
 - Burnout Distribution Treemap
 - Burnout Driver Analysis
 - Productivity Across Remote Work Models
 - AI Tool Usage vs Burnout Scatter Plot
 - AI Burnout Prediction Accuracy Analysis
 
-### Interactive Features
+## 🎛️ Interactive Features
 - Industry Filters
 - Job Role Filters
 - AI Fear Level Filters
@@ -78,7 +78,7 @@ The project combines Data Science, Machine Learning, and Business Intelligence t
 
 ---
 
-## Project Structure
+# 📂 Project Structure
 
 ```text
 Enterprise_AI_Workforce_Intelligence/
@@ -103,7 +103,7 @@ Enterprise_AI_Workforce_Intelligence/
 
 ---
 
-## Dashboard Preview
+# 🖼️ Dashboard Preview
 
 Add your Power BI dashboard screenshot inside the `screenshots/` folder and reference it here.
 
@@ -115,27 +115,27 @@ Example:
 
 ---
 
-## How to Run the Project
+# ⚙️ How to Run the Project
 
-### 1. Clone Repository
+## 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/yourusername/Enterprise_AI_Workforce_Intelligence.git
 ```
 
-### 2. Install Dependencies
+## 2️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run Machine Learning Script
+## 3️⃣ Run Machine Learning Script
 
 ```bash
 python src/ai_worker_burnout_attrition.py
 ```
 
-### 4. Open Power BI Dashboard
+## 4️⃣ Open Power BI Dashboard
 
 Open:
 
@@ -150,24 +150,24 @@ Refresh visuals.
 
 ---
 
-## Business Impact
+# 💼 Business Impact
 
 This project demonstrates how AI and Machine Learning can help organizations:
 
-- Detect workforce burnout early
-- Reduce employee attrition
-- Monitor AI displacement anxiety
-- Improve workforce productivity
-- Support strategic HR decisions
+- 🔹 Detect workforce burnout early
+- 🔹 Reduce employee attrition
+- 🔹 Monitor AI displacement anxiety
+- 🔹 Improve workforce productivity
+- 🔹 Support strategic HR decisions
 
 ---
 
-## Author
+# 👨‍💻 Author
 
-Samaksh Kanagale
+**Samaksh Kanagale**
 
 ---
 
-## License
+# 📜 License
 
 This project is intended for educational, portfolio, and analytics demonstration purposes.
